@@ -1,0 +1,3 @@
+# math-game
+it is a game i had developed in a time of 2 weeks for a small presentation, the game is not perfect it has its flaws 
+but its the first full to working model of a application i have...
